@@ -1,0 +1,211 @@
+
+header{
+	position: absolute;
+	height: 150px ; 
+	width: 1500px ;
+	top:20px;
+	left:130px;
+}
+
+
+
+
+#image1 {
+	display : inline-block;
+	height: 100px ; 
+	width: 200px ;
+	position: absolute;
+	/* top: 10px;  */
+	left: 100px;
+  
+}
+body {
+	
+	height: 130% ; 
+	width: 90px ;
+	margin-left: 250px;
+    margin-right: 100px;
+  }
+  form {
+  width:800px;
+  margin-left: 475px;
+  }
+  input{
+  padding:4px 10px;
+  font-size:16px;
+  }
+  .search {
+  width: 75%;
+  }
+  .submit{
+  width: 70px;
+  background-color: #1c87c9;
+  }
+  .recherche{
+	display : inline-block;
+	position: absolute;
+    top: 160px;
+	left: -120px;	
+}
+  
+#blockdroithaut{
+	position: absolute;
+    top: 180px;
+	left: 1300px;
+	border-width:10px;
+	border-color:black;
+	
+}
+
+
+#lien_externe{
+	position: absolute;
+    top: -10px;
+	left: 1100px;
+	background:white;
+	
+}
+
+
+.tag{
+	
+	position: absolute;
+    top: 600px;
+	left: 1300px;
+	
+	
+}
+.tag2{
+	color: blue;
+}
+
+.fond{
+	position: absolute;
+	
+	bottom: -950px;
+	border-top: 3px solid #323232;
+	height: 200px ; 
+	width: 1500px ;
+	
+	
+	
+}
+.about{
+	position:absolute;
+	left:0px;
+	bottom: 150px;
+	width: 1500px; 
+}
+.mentions{
+	position:absolute;
+	left:30px;
+	bottom: 90px;
+	width: 1500px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.categorie{
+	position: absolute;
+	top:300px;
+	color:white;
+	left:200px;
+	}
+tr {
+	display: block; 
+	float: left;
+	border: 1px solid #333; 
+	background-color: #464545;
+	}
+th { 
+	display: block;
+	border: 1px solid #333;
+	background-color: #464545;
+	}	
+table:hover{
+	background-color: #101012;
+}
+
+
+
+a { 
+color: inherit;
+text-decoration:none;
+ } 
+
+
+
+
+.spe:hover{
+	background-color: #101012;
+	color=blue;
+}
+
+
+
+
+
+
+.miniature{
+	height: 160px ; 
+	width: 320px;
+	position: absolute;
+	left:200px;
+}
+.text{
+	position: absolute;
+	left:550px;
+	width: 436px ;
+}
+
+.videomin{
+	position: absolute;
+	top:350px;
+	left:270px;
+}
+.videomin2{
+	position: absolute;
+	top:550px;
+	left:270px;
+}
+.videomin3{
+	position: absolute;
+	left:270px;
+	top:750px; 
+}
+.videomin4{
+	position: absolute;
+	left:270px;
+	top:950px; 
+}
+
+.videomin5{
+	position: absolute;
+	left:270px;
+	top:1150px; 
+}
+
+
+#ancre{
+	position: fixed;
+	bottom:10px;
+	right:200px;
+	height: 50px ; 
+	width: 50px ;
+	
+}
